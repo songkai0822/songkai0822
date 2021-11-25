@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @songkai0822
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on operation software
+- 💞️ I’m looking to collaborate on writing Python software
 - 📫 How to reach me @songkai0822
 
 <!---
